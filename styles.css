@@ -13,3 +13,11 @@
  h2{
     color: green;
  }
+
+ body{
+    background-color: rgb(39, 77, 64);
+    color: white
+ }
+ ul{
+    padding: 20px
+ }
