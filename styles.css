@@ -1,18 +1,19 @@
 
  body{
     background-color: rgb(214, 255, 241);
-    color: white
-    padding: 20px
+    color: white;
+    padding: 20px;
     
  }
 
  h2{
-    color: white
+    color: white;
+    padding: 20px;
  }
  ul{
-    padding: 20px
+    padding: 20px;
  }
 
 ol{
-    padding: 20px
+    padding: 20px;
 };
