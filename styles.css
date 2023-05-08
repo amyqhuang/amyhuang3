@@ -1,13 +1,13 @@
  #steve {
-    color: rgb(255, 111, 0);
+    color: white;
  }
 
- .blue{
-    color: blue;
+ .white{
+    color: white;
  }
 
  h2{
-    color: green;
+    color: white;
     padding: 20px
  }
 
@@ -20,4 +20,3 @@
     padding: 20px
  }
 
- 
