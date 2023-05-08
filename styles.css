@@ -8,12 +8,16 @@
 
  h2{
     color: green;
+    padding: 20px
  }
 
  body{
     background-color: rgb(39, 77, 64);
     color: white
+    padding: 20px
  }
  ul{
     padding: 20px
  }
+
+ 
